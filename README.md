@@ -1,4 +1,4 @@
-# zsecup2_theme
+# ZSE CUP 2 - Website template
 > Template by Mateusz Ożóg
 
 ## Project of new ZSE CUP 2 tournament website!
